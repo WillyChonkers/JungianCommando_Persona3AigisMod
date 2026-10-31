@@ -1,23 +1,19 @@
-# Jungian Huntress Yukari (ROR2 Persona 3 Mod)
+# Jungian Commando Aigis (ROR2 Persona 3 Mod)
 
-"You really...don't want to go back...?"
-No, Yukari. But I gladly went back to Blender to make sure you can look extra adorable in my favourite Roguelike.
-Making Yukari into another girl with a longbow was the answer all along.
+"You can close your eyes. I'll always remain here by your side."
+The most celebrated robot girl deploys to Petrichor!
 
-![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianHuntress_Persona3_Yukari_Mod/refs/heads/main/imagesYukari/1.png) 
-![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianHuntress_Persona3_Yukari_Mod/refs/heads/main/imagesYukari/2.png) 
+![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianCommando_Persona3AigisMod/refs/heads/main/imagesAigis/1.jpg) 
+![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianCommando_Persona3AigisMod/refs/heads/main/imagesAigis/2.jpg) 
 
 ## Dependencies
 
 * R2API\_Skins
 * bbepis-BepInExPack
 
-![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianHuntress_Persona3_Yukari_Mod/refs/heads/main/imagesYukari/3.png) 
+![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianCommando_Persona3AigisMod/refs/heads/main/imagesAigis/3.jpg) 
 
 ## Credits and Thanks
 
 * Model: Exported from Persona Q 2 and modified/upscaled/rigged by me.
-* SkeletalDelegate for giving me the wonderful idea
-
-![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianHuntress_Persona3_Yukari_Mod/refs/heads/main/imagesYukari/4.png) 
 
