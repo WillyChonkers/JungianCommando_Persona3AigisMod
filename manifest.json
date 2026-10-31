@@ -1,0 +1,10 @@
+{
+    "name": "JungianCommando_Persona3AigisMod",
+    "version_number": "1.0.2",
+    "website_url": "",
+    "description": "You can close your eyes. I'll always remain here by your side.",
+    "dependencies": [
+        "RiskofThunder-R2API_Skins-1.4.11",
+        "bbepis-BepInExPack-5.4.2120"
+    ]
+}
